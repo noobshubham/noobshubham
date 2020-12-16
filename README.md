@@ -6,8 +6,10 @@
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
+<a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
 <!--END_SECTION:update_image-->
+</a>
 
 <!--
 **noobshubham/noobshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
