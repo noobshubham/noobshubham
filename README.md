@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/marketplace/actions/update-image-readme">
-<!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/noobshubham/noobshubham/main/.github/images/image1.png height=180px width=180px align=right alt=<alt-message> />
-<!--END_SECTION:update_image-->
-</a>
-
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
