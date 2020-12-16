@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-<a href='https://github.com/marketplace/actions/quote-readme'>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
 <!--END_SECTION:update_image-->
+</a>
+
+<a href='https://github.com/marketplace/actions/quote-readme'>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 </a>
 
 <!--
