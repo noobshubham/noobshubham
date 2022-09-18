@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 I'm SHUBHAM, 22 Y.O. Android Developer From India.
 
-- :computer: I'm currently working on college project.
+- :computer: I'm currently working on ~college~ project.
 - :school: I'm currently learning : android
 - :eye: Looking for an internship or opportunity.
 - :book: Often Failing, Always Learning ✌
